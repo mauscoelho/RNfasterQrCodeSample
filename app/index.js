@@ -4,7 +4,7 @@ import logo from "./assets/logo.png";
 import QrCode from "react-native-qrcode-svg";
 import { Button } from "react-native-elements";
 
-export default class fasterQrCodeSample extends Component {
+export default class App extends Component {
   render() {
     return (
       <View style={styles.container}>
