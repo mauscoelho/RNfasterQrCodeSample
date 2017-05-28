@@ -1,0 +1,3 @@
+rootProject.name = 'RNfasterQrCodeSample'
+
+include ':app'
